@@ -1,2 +1,2 @@
-# shell-scripts
+# shell-scripting
 Shell scripts templates
